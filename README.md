@@ -1,7 +1,7 @@
 # Users Files App Documentation
 
 ## Introduction
-The Users Files app is a Laravel application designed following the MVC (Model-View-Controller) pattern. It allows managing users and their associated files. This documentation provides an overview of the app's endpoints, their expected responses, and an SQL query with explanations.
+The Users Files app is a Laravel application designed following the MVC (Model-View-Controller) pattern. It allows managing users and their associated files. This documentation provides an overview of the app's endpoints, their expected responses.
 
 ## Endpoints
 
@@ -21,7 +21,6 @@ The Users Files app is a Laravel application designed following the MVC (Model-V
                 "Mustafa"
             ]
         },
-        ...
     ]
 }
 ```
@@ -41,7 +40,6 @@ The Users Files app is a Laravel application designed following the MVC (Model-V
             "updated_at": "2023-06-13T07:48:36.000000Z",
             "format": null
         },
-        ...
     ]
 }
 ```
@@ -68,6 +66,8 @@ The Users Files app is a Laravel application designed following the MVC (Model-V
     }
 }
 ```
+
+##Section 2 in TASK
 
 ## SQL Query Explanation
 The provided SQL query is as follows:
