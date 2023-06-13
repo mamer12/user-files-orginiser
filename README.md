@@ -34,7 +34,7 @@ The Users Files app is a Laravel application designed following the MVC (Model-V
     "files": [
         {
             "id": 1,
-            "title": "New File",
+            "title": "NewFile.txt",
             "user_id": 1,
             "created_at": "2023-06-13T07:48:36.000000Z",
             "updated_at": "2023-06-13T07:48:36.000000Z",
