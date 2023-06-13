@@ -15,10 +15,10 @@ The Users Files app is a Laravel application designed following the MVC (Model-V
         {
             "user_name": "John Doe",
             "files": [
-                "New File",
-                "test_file",
-                "New File",
-                "Mustafa"
+                "NewFile.txt",
+                "test_file.doc",
+                "file.html",
+                "Mustafa.zip"
             ]
         },
     ]
@@ -50,7 +50,7 @@ The Users Files app is a Laravel application designed following the MVC (Model-V
 - Request Body:
 ```json
 {
-  "title": "fsdf",
+  "title": "names.doc",
   "user_id": 2
 }
 ```
@@ -59,7 +59,7 @@ The Users Files app is a Laravel application designed following the MVC (Model-V
 {
     "file": {
         "id": 3,
-        "title": "fsdf",
+        "title": "names.doc",
         "user_id": 2,
         "created_at": "2023-06-13T09:00:00.000000Z",
         "updated_at": "2023-06-13T09:00:00.000000Z"
