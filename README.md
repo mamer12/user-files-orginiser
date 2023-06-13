@@ -67,9 +67,11 @@ The Users Files app is a Laravel application designed following the MVC (Model-V
 }
 ```
 
-##Section 2 in TASK
+## ------------------------------------------
 
-## SQL Query Explanation
+## Section 2 in TASK
+
+# SQL Query Explanation
 The provided SQL query is as follows:
 ```sql
 SELECT 
